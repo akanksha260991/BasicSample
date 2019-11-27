@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "759930396038",
+    "firebase_url": "https://bstack-test.firebaseio.com",
+    "project_id": "bstack-test",
+    "storage_bucket": "bstack-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759930396038:android:b29ecfba8bbfa282d96007",
+        "android_client_info": {
+          "package_name": "com.example.android.testing.espresso.BasicSample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759930396038-cfr25rbgd9mtq3qs5ce3g0aaqjgheq6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMM2BwkPH235RPOFblp4TUE47G94lhTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759930396038-cfr25rbgd9mtq3qs5ce3g0aaqjgheq6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
