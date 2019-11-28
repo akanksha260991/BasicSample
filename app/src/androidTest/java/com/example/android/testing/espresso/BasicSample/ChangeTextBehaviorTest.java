@@ -67,6 +67,7 @@ public class ChangeTextBehaviorTest {
         onView(withId(R.id.changeTextBt)).perform(click());
 
         // Check that the text was changed.
+        //Adding next commit
         onView(withId(R.id.textToBeChanged)).check(matches(withText(STRING_TO_BE_TYPED)));
     }
 
